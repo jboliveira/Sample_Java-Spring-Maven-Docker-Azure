@@ -1,1 +1,1 @@
-# sample-java-spring-maven-azure
+# Java-Spring-Maven-Docker-Azure
